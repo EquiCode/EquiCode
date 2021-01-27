@@ -1,1 +1,2 @@
-# EquiCode
+# Hi there :wave:
+
